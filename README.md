@@ -5,7 +5,7 @@ Archive of Emails Made in SharpSpring.
 --------------
 
 ### Project Details
-Project Manager: N.W, A.S.
+Project Manager: N.W., A.S.
 
 Developers: E.T., A.D.
 
