@@ -5,12 +5,14 @@ Archive of Emails Made in SharpSpring.
 --------------
 
 ### Project Details
-Project Manager: Nick Weber, Andrew Schaffer
+Project Manager: N.W., A.S.
 
-Developers: Edd Twilbeck, Adam Doe
+Developers: E.T., A.D.
 
 Start Date: 10/28/2016
+
 Due Date: N/A
+
 Completion Date: N/A
 
 #### Notes
