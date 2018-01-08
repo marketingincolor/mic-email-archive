@@ -1,7 +1,7 @@
 Email Archive
 ==============
 
-Archive of Emails Made in SharpSpring.
+Archive of Emails Templates.
 --------------
 
 ### Project Details
