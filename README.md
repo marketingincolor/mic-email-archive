@@ -1,7 +1,7 @@
 Email Archive
 ==============
 
-Archive of Emails Templates.
+Archive of Email Templates.
 --------------
 
 ### Project Details
